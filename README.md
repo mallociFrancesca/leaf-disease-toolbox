@@ -7,12 +7,15 @@ University of Cagliari
 
 This repository contains the source code of the following article:
 
-- **G. Fenu and F. M. Malloci,"Using Multi-Output Learning to Diagnose Plant Disease and Stress Severity", Complexity,Article ID 6663442, 2021,https://doi.org/10.1155/2021/6663442**
+- **Fenu, G.; Malloci, F.M. Using Multi-Output Learning to Diagnose Plant Disease and Stress Severity. Complexity 2021,Article ID 6663442. https://doi.org/10.1155/2021/6663442**
+
+- **Fenu, G.; Malloci, F.M. DiaMOS Plant: A Dataset for Diagnosis and Monitoring Plant Disease. Agronomy 2021, 11, 2107. https://doi.org/10.3390/agronomy11112107**
 
 
 ## Table of Contents
 - [Installation](#installation)
 - [Contribution](#contribution)
+- [Dataset](#dataset)
 - [Citations](#citations)
 - [License](#license)
 
@@ -37,11 +40,20 @@ $ git clone https://github.com/mallociFrancesca/leaf-disease-toolbox.git
 ## Contribution
 This code is provided for educational purposes.
 
+
+## Dataset
+The DiaMOS Plant dataset used to support our findings is published at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5557313.svg)](https://doi.org/10.5281/zenodo.5557313)
+
 ## Citations
 ```
 G. Fenu and F. M. Malloci (2021).
 Using Multi-Output Learning to Diagnose Plant Disease and Stress Severity.
 Complexity, 2021,https://doi.org/10.1155/2021/6663442.
+```
+```
+Fenu, G., & Malloci, F. M. (2021). 
+DiaMOS Plant: A Dataset for Diagnosis and Monitoring Plant Disease. 
+Agronomy, 11(11), 2107.
 ```
 
 
